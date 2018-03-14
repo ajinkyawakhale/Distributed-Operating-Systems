@@ -1,0 +1,54 @@
+Socket created
+Server is up and running 
+
+Waiting for incomming connections
+
+Connection accepted 
+Num of line of records 6
+101 	Amar 	1000
+102 	Ankit 	12000
+103 	Ankit 	13000
+104 	Ankit 	14000
+105 	Ankit 	15000
+106 	Ankit 	16000
+Reading transasctions one by one 
+*********************************************
+10 108 w 1
+
+Wrong account number, Transaction declined
+*********************************************
+20 102 d 5
+
+Name :Ankit
+Old balance is: 12000
+New balance after depositing 5 is : 12005
+*********************************************
+*********************************************
+40 101 d 10
+
+Name :Amar
+Old balance is: 1000
+New balance after depositing 10 is : 1010
+*********************************************
+*********************************************
+30 103 w 13050
+
+Name: Ankit
+Old balance is: 13000
+Transaction declined due to insufficient balance
+*********************************************
+*********************************************
+50 105 d 2
+050
+
+Name :Ankit
+Old balance is: 15000
+New balance after depositing 2 is : 15002
+*********************************************
+*********************************************
+60 106 d 10050
+
+Name :Ankit
+Old balance is: 16000
+New balance after depositing 10050 is : 26050
+*********************************************
