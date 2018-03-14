@@ -1,6 +1,0 @@
-101 Amar 1000
-102 Ankit 12000
-103 Ankit 13000
-104 Ankit 14000
-105 Ankit 15000
-106 Ankit 16000
