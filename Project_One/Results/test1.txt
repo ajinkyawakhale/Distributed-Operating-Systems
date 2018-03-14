@@ -1,0 +1,55 @@
+Connected
+Number of Transactions : 6
+Wait time for each transaction is 0.100000
+*****************************************************************************************
+Processing your transaction one by one 
+
+10 108 w 1
+
+Wrong Account number
+Transaction declined
+*****************************************************************************************
+Processing your transaction one by one 
+
+20 102 d 5
+
+Name :Ankit
+Old balance is: 12000
+New balance after depositing amount USD 5 is: 12005
+
+*****************************************************************************************
+Processing your transaction one by one 
+
+40 101 d 10
+
+Name :Amar
+Old balance is: 1000
+New balance after depositing amount USD 10 is: 1010
+
+*****************************************************************************************
+Processing your transaction one by one 
+
+30 103 w 13050
+
+Name: Ankit
+Old balance is: 13000
+Transaction declined: Due to insufficient balance. Because Your balance is 13000 and you are trying to withdraw: 13050
+*****************************************************************************************
+Processing your transaction one by one 
+
+50 105 d 2
+
+Name :Ankit
+Old balance is: 15000
+New balance after depositing amount USD 2 is: 15002
+
+*****************************************************************************************
+Processing your transaction one by one 
+
+60 106 d 10
+Name :Ankit
+Old balance is: 16000
+New balance after depositing amount USD 10050 is: 26050
+
+*****************************************************************************************
+All Transactions completed. Closing the connection
